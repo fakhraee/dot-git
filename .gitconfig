@@ -9,3 +9,5 @@
 [user]
 	name = fakhraee
 	email = fakhraee@riseup.net
+[core]
+	autocrlf = input
